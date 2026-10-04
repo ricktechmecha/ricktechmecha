@@ -20,6 +20,7 @@ agentic AI-assisted development, testing, deployment and operations.
 | [**plethora-test-toolkit**](https://github.com/ricktechmecha/plethora-test-toolkit) | 9-level test methodology (gates → E2E → mutation → security → AI/data → governance) with a real production case study |
 | [**whatsapp-toolkit**](https://github.com/ricktechmecha/whatsapp-toolkit) | WhatsApp MCP server + CLI + web automation. Fork extended with REST endpoints, code pairing, and LID→phone resolution |
 | [**hermes-whatsapp-secretary**](https://github.com/ricktechmecha/hermes-whatsapp-secretary) | Personal WhatsApp secretary skill for Hermes Agent |
+| [**tailbridge**](https://github.com/ricktechmecha/tailbridge) | Bidirectional hub↔node control over Tailscale+SSH — Android/Termux orchestration, hybrid net-scan, reproducible Android builds, AI device control via ADB |
 
 ### Stack
 
